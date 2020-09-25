@@ -1,0 +1,6 @@
+car
+plane
+food
+fork
+knife
+table
